@@ -1,5 +1,6 @@
 # Weather App
 <p align="center">
+  <img width="245" alt="Screenshot 2024-07-10 at 2 07 36 PM" src="https://github.com/CodeBeginner000001/Weather-App/assets/92913917/bcd30133-aa7c-4b74-854f-d93e6fd45528">
 </p>
 <p></p>
 Weather App is a React application that allows users to get detailed weather information for their location. Users can enter their location to retrieve data such as temperature, humidity, max temperature, min temperature, feels-like temperature, weather conditions, wind speed, pressure, latitude, longitude, and an image depicting the current weather.
